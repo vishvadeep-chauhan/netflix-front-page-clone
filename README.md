@@ -3,7 +3,7 @@
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/thevishvadeep).
 
-[-: live view :-](https://replit.com/@thevishvadeep/Netflix-Clone).
+[-: live view :-](https://netflix-clone.thevishvadeep.repl.co/).
 
 ### License
 
